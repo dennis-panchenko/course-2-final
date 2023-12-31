@@ -1,2 +1,2 @@
-# course-2-final
-Course 2, final assignment
+# Tools for Data Science, final assignment
+
